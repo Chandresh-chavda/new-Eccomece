@@ -1,0 +1,17 @@
+C:\Users\Chandresh.Chavda\source\repos\books\Books.DataAccess\bin\Debug\net6.0\Books.DataAccess.deps.json
+C:\Users\Chandresh.Chavda\source\repos\books\Books.DataAccess\bin\Debug\net6.0\Books.DataAccess.runtimeconfig.json
+C:\Users\Chandresh.Chavda\source\repos\books\Books.DataAccess\bin\Debug\net6.0\Books.DataAccess.dll
+C:\Users\Chandresh.Chavda\source\repos\books\Books.DataAccess\bin\Debug\net6.0\Books.DataAccess.pdb
+C:\Users\Chandresh.Chavda\source\repos\books\Books.DataAccess\bin\Debug\net6.0\Books.Model.dll
+C:\Users\Chandresh.Chavda\source\repos\books\Books.DataAccess\bin\Debug\net6.0\Books.Model.pdb
+C:\Users\Chandresh.Chavda\source\repos\books\Books.DataAccess\obj\Debug\net6.0\Books.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Chandresh.Chavda\source\repos\books\Books.DataAccess\obj\Debug\net6.0\Books.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chandresh.Chavda\source\repos\books\Books.DataAccess\obj\Debug\net6.0\Books.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Chandresh.Chavda\source\repos\books\Books.DataAccess\obj\Debug\net6.0\Books.DataAccess.AssemblyInfo.cs
+C:\Users\Chandresh.Chavda\source\repos\books\Books.DataAccess\obj\Debug\net6.0\Books.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Chandresh.Chavda\source\repos\books\Books.DataAccess\obj\Debug\net6.0\Books.DataAccess.csproj.CopyComplete
+C:\Users\Chandresh.Chavda\source\repos\books\Books.DataAccess\obj\Debug\net6.0\Books.DataAccess.dll
+C:\Users\Chandresh.Chavda\source\repos\books\Books.DataAccess\obj\Debug\net6.0\refint\Books.DataAccess.dll
+C:\Users\Chandresh.Chavda\source\repos\books\Books.DataAccess\obj\Debug\net6.0\Books.DataAccess.pdb
+C:\Users\Chandresh.Chavda\source\repos\books\Books.DataAccess\obj\Debug\net6.0\Books.DataAccess.genruntimeconfig.cache
+C:\Users\Chandresh.Chavda\source\repos\books\Books.DataAccess\obj\Debug\net6.0\ref\Books.DataAccess.dll

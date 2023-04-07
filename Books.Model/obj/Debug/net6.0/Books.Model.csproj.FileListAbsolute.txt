@@ -1,0 +1,12 @@
+C:\Users\Chandresh.Chavda\source\repos\books\Books.Model\bin\Debug\net6.0\Books.Model.deps.json
+C:\Users\Chandresh.Chavda\source\repos\books\Books.Model\bin\Debug\net6.0\Books.Model.dll
+C:\Users\Chandresh.Chavda\source\repos\books\Books.Model\bin\Debug\net6.0\Books.Model.pdb
+C:\Users\Chandresh.Chavda\source\repos\books\Books.Model\obj\Debug\net6.0\Books.Model.csproj.AssemblyReference.cache
+C:\Users\Chandresh.Chavda\source\repos\books\Books.Model\obj\Debug\net6.0\Books.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chandresh.Chavda\source\repos\books\Books.Model\obj\Debug\net6.0\Books.Model.AssemblyInfoInputs.cache
+C:\Users\Chandresh.Chavda\source\repos\books\Books.Model\obj\Debug\net6.0\Books.Model.AssemblyInfo.cs
+C:\Users\Chandresh.Chavda\source\repos\books\Books.Model\obj\Debug\net6.0\Books.Model.csproj.CoreCompileInputs.cache
+C:\Users\Chandresh.Chavda\source\repos\books\Books.Model\obj\Debug\net6.0\Books.Model.dll
+C:\Users\Chandresh.Chavda\source\repos\books\Books.Model\obj\Debug\net6.0\refint\Books.Model.dll
+C:\Users\Chandresh.Chavda\source\repos\books\Books.Model\obj\Debug\net6.0\Books.Model.pdb
+C:\Users\Chandresh.Chavda\source\repos\books\Books.Model\obj\Debug\net6.0\ref\Books.Model.dll
